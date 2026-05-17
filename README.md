@@ -35,7 +35,7 @@ A responsive Weather App developed using HTML, CSS, and JavaScript with OpenWeat
 
 \## 🌐 Live Demo
 
-https://banalamery.github.io/Weather-app-task4/
+https://banalamery.github.io/weather-app-task5/
 
 
 
