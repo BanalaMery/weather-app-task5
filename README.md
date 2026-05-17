@@ -1,11 +1,9 @@
 \# 🌦 Weather App - Final Project
 
 
-
 \## 📌 Project Description
 
 A responsive Weather App developed using HTML, CSS, and JavaScript with OpenWeather API integration.
-
 
 
 \---
@@ -31,14 +29,13 @@ A responsive Weather App developed using HTML, CSS, and JavaScript with OpenWeat
 \- Live deployment using GitHub Pages
 
 
-
 \---
 
 
 
 \## 🌐 Live Demo
 
-Add your deployed GitHub Pages link here.
+https://banalamery.github.io/Weather-app-task4/
 
 
 
@@ -49,7 +46,6 @@ Add your deployed GitHub Pages link here.
 \## 📸 Screenshots
 
 Screenshots are available in the screenshots folder.
-
 
 
 \---
@@ -69,7 +65,6 @@ Screenshots are available in the screenshots folder.
 \- GitHub Pages
 
 
-
 \---
 
 
@@ -85,7 +80,6 @@ Screenshots are available in the screenshots folder.
 \- Task-4: Deployment
 
 \- Task-5: Optimization \& Documentation
-
 
 
 \---
